@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OTALauncher</string>
+    <string name="filename">File Name</string>
+    <string name="condition">Condition</string>
+    <string name="stop">Stop</string>
+    <string name="download">Download</string>
+    <string name="check">Check</string>
+    <string name="title_ota_activity">OTA File Status</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+ 	<string name="update_finish">Files are all newest, please roboot box</string>
+ 	<string name="latest">LATEST</string>
+ 	<string name="older">OLDER</string>
+ 	<string name="upgrade_fails">The upgrade occur fails, please check network connection and machine storage</string>
+ 	<string name="description">description</string>
+</resources>
